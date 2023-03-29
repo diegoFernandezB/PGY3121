@@ -75,9 +75,10 @@ body {background-color: black;}
 h1 {color: white;}
 p {border-color: #2600ff;}
 
-#right{
-    margin ;
-    width: ;
-    border: ;
-    padding: ;
+
+/*barra_nav*/
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
 }
