@@ -71,13 +71,10 @@ p{
 
 
 
-body {background-color: black;}
-h1 {color: white;}
-p {border-color: #2600ff;}
-
-#right{
-    margin ;
-    width: ;
-    border: ;
-    padding: ;
+.aa{
+    margin-bottom: 60px;
 }
+
+.borde{
+    
+    border: solid;}
